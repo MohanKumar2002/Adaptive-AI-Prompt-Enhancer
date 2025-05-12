@@ -7,3 +7,5 @@ wordcloud
 matplotlib
 torch
 sentencepiece
+pipwin
+pyaudio
