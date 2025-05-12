@@ -5,3 +5,4 @@ transformers
 textblob
 wordcloud
 matplotlib
+torch
