@@ -7,8 +7,8 @@ wordcloud
 matplotlib
 torch
 sentencepiece
-pipwin; sys_platform == "win32"
-pyaudio; sys_platform == "win32"
-protobuf<4.0.0  # Compatibility with google-generativeai
+pipwin
+pyaudio
+protobuf
 numpy
 pillow
